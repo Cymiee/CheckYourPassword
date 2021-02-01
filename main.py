@@ -84,3 +84,4 @@ if __name__ == "__main__":
             else:
                 print(f"Your password ({i}) was found in the stolen password database {result[1]} times "
                       f"with hash-: {result[0]}")
+print("bye")
